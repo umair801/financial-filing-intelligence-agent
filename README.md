@@ -1,6 +1,6 @@
 # Financial Filing Intelligence Agent
 
-> Powered by [Datawebify](https://datawebify.com) | Live API: [filings.datawebify.com/docs](https://filings.datawebify.com/docs)
+> Powered by [Datawebify](https://datawebify.com) | Live: [filings.datawebify.com](https://filings.datawebify.com) | Docs: [filings.datawebify.com/docs](https://filings.datawebify.com/docs)
 
 A production-grade multi-agent system for SEC EDGAR financial filing intelligence. Built with LangGraph, GPT-4o, FastAPI, and PostgreSQL. Designed for financial research automation, hedge fund AI tooling, and investment analysis workflows.
 
