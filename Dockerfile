@@ -24,4 +24,8 @@ RUN mkdir -p exports logs
 EXPOSE 8000
 
 # Start FastAPI with Uvicorn
+<<<<<<< HEAD
 CMD ["sh", "-c", "uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8000}"]
+=======
+CMD uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8000}
+>>>>>>> 648009aa68a17d6ff41e9df0fcb9fdb1da2268eb
